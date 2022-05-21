@@ -85,6 +85,7 @@ function App() {
     if (doc.magaca === "Saciid Cabdilahi Dani") {
       codadkaDani ++;
     }
+    return doc;
   })
   useEffect(() => {
 
