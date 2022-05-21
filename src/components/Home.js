@@ -1,9 +1,9 @@
 import React from 'react'
 
-import Farmajo from '../assets/farmajo.png'
-import Khayre from '../assets/khayre.png'
-import Xasan from '../assets/xasan.png'
-import Dani from '../assets/dani.png'
+import Farmajo from '../assets/farmajo.jpg'
+import Khayre from '../assets/khayre.jpg'
+import Xasan from '../assets/xasan.jpg'
+import Dani from '../assets/dani.jpg'
 
 export const Home = (props) => {
 
